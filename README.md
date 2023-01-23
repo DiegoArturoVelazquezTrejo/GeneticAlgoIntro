@@ -27,3 +27,6 @@ https://github.com/DiegoArturoVelazquezTrejo/Computo_Evolutivo/tree/master/Evolu
 
 https://rednuht.org/genetic_cars_2/
 
+# Link al ejemplo de Simulated Annealing: optimizando mochilas: 
+
+https://github.com/DiegoArturoVelazquezTrejo/Computo_Evolutivo/tree/master/Simulated_annealing
