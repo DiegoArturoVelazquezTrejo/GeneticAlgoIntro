@@ -19,3 +19,11 @@ https://biblus.us.es/bibing/proyectos/abreproy/4893/fichero/Memoria%252FC3.Algor
 
 https://www.sfu.ca/~ssurjano/optimization.html
 
+# Repositorio del algoritmo genético que implementa clustering, paralelismo y conceptos de metaheurísticas: 
+
+https://github.com/DiegoArturoVelazquezTrejo/Computo_Evolutivo/tree/master/Evolutivo/Tarea3
+
+# Link de BoxCar2D: 
+
+https://rednuht.org/genetic_cars_2/
+
