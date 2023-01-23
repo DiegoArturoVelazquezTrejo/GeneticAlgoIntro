@@ -30,3 +30,7 @@ https://rednuht.org/genetic_cars_2/
 # Link al ejemplo de Simulated Annealing: optimizando mochilas: 
 
 https://github.com/DiegoArturoVelazquezTrejo/Computo_Evolutivo/tree/master/Simulated_annealing
+
+# Explicación breve de genes y alelos: 
+
+https://es.khanacademy.org/science/ap-biology/heredity/mendelian-genetics-ap/v/alleles-and-genes
